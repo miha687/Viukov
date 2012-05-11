@@ -4,4 +4,4 @@ Comments.
 
 "mod_lists" - module to work with lists: delete, insert etc.
 
-"sotring2lists" - shake sorting of 2 lists
+"sotring2lists" - shell sorting of 2 lists
